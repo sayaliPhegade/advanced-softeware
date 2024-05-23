@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/advanced-softeware/static/css/main.105a2606.css",
-    "main.js": "/advanced-softeware/static/js/main.cf87f41f.js",
-    "static/js/787.54392cce.chunk.js": "/advanced-softeware/static/js/787.54392cce.chunk.js",
-    "static/media/logo.jpg": "/advanced-softeware/static/media/logo.ec9492c340fa5f5208c4.jpg",
-    "index.html": "/advanced-softeware/index.html",
-    "main.105a2606.css.map": "/advanced-softeware/static/css/main.105a2606.css.map",
-    "main.cf87f41f.js.map": "/advanced-softeware/static/js/main.cf87f41f.js.map",
-    "787.54392cce.chunk.js.map": "/advanced-softeware/static/js/787.54392cce.chunk.js.map"
+    "main.css": "/advanced-software/static/css/main.105a2606.css",
+    "main.js": "/advanced-software/static/js/main.9408fb19.js",
+    "static/js/787.54392cce.chunk.js": "/advanced-software/static/js/787.54392cce.chunk.js",
+    "static/media/logo.jpg": "/advanced-software/static/media/logo.ec9492c340fa5f5208c4.jpg",
+    "index.html": "/advanced-software/index.html",
+    "main.105a2606.css.map": "/advanced-software/static/css/main.105a2606.css.map",
+    "main.9408fb19.js.map": "/advanced-software/static/js/main.9408fb19.js.map",
+    "787.54392cce.chunk.js.map": "/advanced-software/static/js/787.54392cce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.105a2606.css",
-    "static/js/main.cf87f41f.js"
+    "static/js/main.9408fb19.js"
   ]
 }
